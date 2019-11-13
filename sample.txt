@@ -1,6 +1,6 @@
 initial
 commit
-の
+の     commit C
 状態
 です。 commit B
 
