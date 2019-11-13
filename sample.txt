@@ -2,6 +2,6 @@ initial
 commit
 の
 状態
-です。
+です。 commit B
 
 commit A
