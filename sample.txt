@@ -1,4 +1,4 @@
-initial
+initial commit D
 commit
 の     commit C
 状態
