@@ -3,5 +3,5 @@ commit
 の     commit C
 状態
 です。 commit B
-
+commit E
 commit A
